@@ -1,0 +1,60 @@
+#EXTM3U
+# Lista: IPTV legal / gratuita - Colombia (optimiz. para Android TV / Fire Stick)
+# Nota: para garantizar legalidad y evitar geobloqueos, esta lista enlaza a las páginas oficiales de reproducción en vivo
+# (algunas usan reproductores web; si tu app IPTV no reproduce la página, puedes usar "Streamlink" o buscar el HLS (.m3u8) desde la web oficial).
+
+# -------------------- CANALES COLOMBIANOS (ENLACES OFICIALES) --------------------
+# Señal Colombia (RTVC) - página oficial 'Señal en vivo'
+# Fuente: Señal Colombia / RTVCPlay
+#EXTINF:-1 tvg-id="senal_colombia" tvg-name="Señal Colombia" group-title="Colombia",Señal Colombia (RTVC)
+https://www.senalcolombia.tv/senal-en-vivo
+
+# Señal Colombia (RTVCPlay alternativa)
+#EXTINF:-1 tvg-id="senal_colombia_rtvcplay" tvg-name="Señal Colombia (RTVCPlay)" group-title="Colombia",RTVCPlay - Señal Colombia
+https://www.rtvcplay.co/en-vivo/senal-colombia
+
+# Caracol Televisión - Señal en vivo (página oficial)
+#EXTINF:-1 tvg-id="caracol" tvg-name="Caracol TV" group-title="Colombia",Caracol Televisión - Señal en vivo
+https://www.caracoltv.com/senal-vivo
+
+# RCN Televisión - Señal en vivo (página oficial)
+#EXTINF:-1 tvg-id="rcn" tvg-name="RCN" group-title="Colombia",RCN - Señal en vivo
+https://www.canalrcn.com/senal-en-vivo
+
+# Canal Capital - Señal en vivo (Bogotá)
+#EXTINF:-1 tvg-id="canal_capital" tvg-name="Canal Capital" group-title="Colombia",Canal Capital - Señal en vivo
+https://www.canalcapital.gov.co/content/canal-capital-vivo
+
+# Telepacífico - Página oficial
+#EXTINF:-1 tvg-id="telepacifico" tvg-name="Telepacífico" group-title="Colombia",Telepacífico - Señal en vivo / Sitio oficial
+https://telepacifico.com/
+
+# Teleantioquia - página oficial (señal en vivo si está disponible)
+#EXTINF:-1 tvg-id="teleantioquia" tvg-name="Teleantioquia" group-title="Colombia",Teleantioquia - Señal en vivo (sitio oficial)
+https://www.teleantioquia.co/
+
+# Telecafé - página oficial
+#EXTINF:-1 tvg-id="telecafe" tvg-name="Telecafé" group-title="Colombia",Telecafé - Sitio oficial
+https://www.telecafe.com.co/
+
+# -------------------- PELÍCULAS / SERIES (PLATAFORMAS GRATIS - PÁGINAS OFICIALES) --------------------
+# Pluto TV - Página regional (canales temáticos gratuitos)
+#EXTINF:-1 tvg-id="plutotv" tvg-name="Pluto TV" group-title="Peliculas/Series",Pluto TV - Canales gratis (web/app)
+https://pluto.tv/en/live-tv
+
+# VIX - Streaming gratuito (sitio oficial)
+#EXTINF:-1 tvg-id="vix" tvg-name="VIX" group-title="Peliculas/Series",VIX - Películas y telenovelas gratis
+https://vix.com/
+
+# Rlaxx TV - Canales temáticos gratuitos (sitio oficial)
+#EXTINF:-1 tvg-id="rlaxx" tvg-name="Rlaxx TV" group-title="Peliculas/Series",Rlaxx TV - Canales gratis
+https://rlaxx.com/
+
+# -------------------- DEPORTES (SEÑALES ABIERTAS / EVENTOS PUBLICOS) --------------------
+# Canales/ofertas deportivas públicas varían por evento; enlace genérico a RTVC y canales regionales
+#EXTINF:-1 tvg-id="deportes_publico" tvg-name="Deportes Publicos" group-title="Deportes",Deportes (RTVC / canales regionales)
+https://www.rtvc.gov.co/tags/senal-en-vivo
+
+# -------------------- FIN DE LISTA --------------------
+# Si tu reproductor no acepta estas URLs (web pages), dime cuál usas (TiviMate, IPTV Smarters, Kodi, VLC) y te doy
+# la instrucción para extraer el HLS (.m3u8) o usar Streamlink para reproducir en Android TV desde EE. UU.
