@@ -1,6 +1,6 @@
 #EXTM3U
 
-########## COLOMBIA ##########
+# ===== 🇨🇴 COLOMBIA =====
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/colombia.png" group-title="🇨🇴 Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/RTVCPlay/senalcolombialive/playlist.m3u8
 
@@ -10,17 +10,17 @@ https://streaming.rtvc.gov.co/RTVCPlay/canalinstitucional/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/colombia.png" group-title="🇨🇴 Colombia",Canal Capital
 https://mediastream.canalcapital.gov.co/live/smil:live.smil/playlist.m3u8
 
-########## 🎬 Películas y Series ##########
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/peliculas_series.png" group-title="🎬 Películas y Series",Pluto TV Latino
+# ===== 🎬 PELÍCULAS & SERIES =====
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/peliculas_series.png" group-title="🎬 Películas & Series",Pluto TV Latino
 https://i.mjh.nz/PlutoTV/latam.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/peliculas_series.png" group-title="🎬 Películas y Series",Runtime Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/peliculas_series.png" group-title="🎬 Películas & Series",Runtime Latino
 https://ott-cdn.ucomcdn.net/runtime-es/playlist.m3u8
 
-########## ⚽ Deportes ##########
+# ===== ⚽ DEPORTES =====
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/deportes.png" group-title="⚽ Deportes",RTVC Deportes
 https://streaming.rtvc.gov.co/RTVCPlay/deportes/playlist.m3u8
 
-########## 🌍 FAST Global ##########
+# ===== 🌍 FAST GLOBAL =====
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Hernanog23/keru-tv/main/logos/fast_global.png" group-title="🌍 FAST Global",Rlaxx TV
 https://rlaxx.amagi.tv/playlist.m3u8
