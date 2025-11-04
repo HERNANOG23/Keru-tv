@@ -1,0 +1,40 @@
+#EXTM3U
+
+########## COLOMBIA - GENERAL ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/colombia/senal_colombia.png" group-title="Colombia - General",Señal Colombia
+https://streaming.rtvc.gov.co/RTVCPlay/senalcolombialive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/colombia/canal_institucional.png" group-title="Colombia - General",Canal Institucional
+https://streaming.rtvc.gov.co/RTVCPlay/canalinstitucional/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/colombia/canal_capital.png" group-title="Colombia - General",Canal Capital
+https://mediastream.canalcapital.gov.co/live/smil:live.smil/playlist.m3u8
+
+########## COLOMBIA - REGIONAL ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/colombia/teleantioquia.png" group-title="Colombia - Regional",Teleantioquia
+https://live.teleantioquia.com/hls/tastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/colombia/telepacifico.png" group-title="Colombia - Regional",Telepacífico
+https://live.telepacifico.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/colombia/telecafe.png" group-title="Colombia - Regional",Telecafé
+https://live10.cdnmedia.tv/telecafe/live.m3u8
+
+########## DEPORTES ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/generic/sports.png" group-title="Deportes",RTVC Deportes
+https://streaming.rtvc.gov.co/RTVCPlay/deportes/playlist.m3u8
+
+########## PELICULAS Y SERIES LATINO ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/global/pluto.png" group-title="Películas y Series",Pluto TV Latino (FAST)
+https://i.mjh.nz/PlutoTV/latam.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/global/runtime.png" group-title="Películas y Series",Runtime Latino (Cine 24/7)
+https://ott-cdn.ucomcdn.net/runtime-es/playlist.m3u8
+
+########## PELICULAS Y SERIES (EN) ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/global/pluto.png" group-title="Películas y Series (EN)",Pluto TV USA (FAST)
+https://i.mjh.nz/PlutoTV/us.m3u8
+
+########## FAST GLOBAL ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hendrigunawan/iptv-logos/main/global/rlaxx.png" group-title="FAST Global",Rlaxx TV
+https://rlaxx.amagi.tv/playlist.m3u8
